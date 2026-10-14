@@ -31,6 +31,13 @@
 - **Record Label:** G-Series
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Ishshoronio%20%282005%29/Album%20Cover/folder.jpg" width="300" alt="Ishshoronio Album Cover" />
+</p> (ঈশ্বরণীয়)
+- **Release Year:** 2005 (July 15, 2005)
+- **Record Label:** G-Series
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
 ### 📖 About the Album
 Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut studio album by Icons. Blending atmospheric alternative metal with deeply poetic Bengali lyrics penned by Faisal Akram Ether, the 12-track album delivered underground classics including *"Brishtihoto"*, *"Ishshoronio"*, *"[O]shompurno"*, and *"Obinoy"*.
 
@@ -48,6 +55,14 @@ Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut s
 - [**10 - Mrito (মৃত)**](https://media.githubusercontent.com/media/GhostDog45/Icons/master/Ishshoronio%20%282005%29/10%20-%20Mrito.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Icons/master/Ishshoronio%20%282005%29/10%20-%20Mrito.flac?download=true)
 - [**11 - Snato (স্নাতো)**](https://media.githubusercontent.com/media/GhostDog45/Icons/master/Ishshoronio%20%282005%29/11%20-%20Snato.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Icons/master/Ishshoronio%20%282005%29/11%20-%20Snato.flac?download=true)
 - [**12 - Obinoy (অবিনয়)**](https://media.githubusercontent.com/media/GhostDog45/Icons/master/Ishshoronio%20%282005%29/12%20-%20Obinoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Icons/master/Ishshoronio%20%282005%29/12%20-%20Obinoy.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBack%5D.jpg" width="300" alt="2. Back Cover" /><br><sub><b>2. Back Cover</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BPromotional%20Poster%5D.jpg" width="300" alt="4. Promotional Poster" /><br><sub><b>4. Promotional Poster</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBooklet-1%5D.jpg" width="300" alt="5. Booklet" /><br><sub><b>5. Booklet</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBand%20Logo%5D.jpg" width="300" alt="6. Band Logo" /><br><sub><b>6. Band Logo</b></sub> |
 
 ---
 
