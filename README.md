@@ -64,7 +64,6 @@ Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut s
 | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BPromotional%20Poster%5D.jpg" width="300" alt="7. Promotional Poster & Lyrics" /><br><sub><b>7. Promotional Poster & Lyrics</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BInset-Front%5D.jpg" width="300" alt="8. Inset (Front)" /><br><sub><b>8. Inset (Front)</b></sub> |
 | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBand%20Logo%5D.jpg" width="300" alt="9. Band Photography" /><br><sub><b>9. Band Photography</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BCD%5D.jpg" width="300" alt="10. Compact Disc (CD)" /><br><sub><b>10. Compact Disc (CD)</b></sub> |
 | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BInset-Back%5D.jpg" width="300" alt="11. Back Inset" /><br><sub><b>11. Back Inset</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBack%5D.jpg" width="300" alt="12. Back Cover" /><br><sub><b>12. Back Cover</b></sub> |
-| <img src="Ishshoronio%20%282005%29/Album%20Cover/folder.jpg" width="300" alt="13. folder" /><br><sub><b>13. folder</b></sub> |  |
 
 ---
 
