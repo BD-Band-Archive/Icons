@@ -17,10 +17,11 @@
 1. [Ishshoronio (ঈশ্বরণীয়) (2005)](#1-ishshoronio-2005)
 
 ### 💿 Mixed Albums
-2. [Din Bodol (দিন বদল) (2004)](#2-din-bodol-2004)
-3. [Agontuk 3 (আগন্তুক ৩) (2005)](#3-agontuk-3-2005)
-4. [Hatiar (হাতিয়ার) (2012)](#4-hatiar-2012)
-5. [Lokayot (2004)](#5-lokayot-2004)
+2. [Din Bodol (দিন বদল) (2004)](#2-din-bodol-দন-বদল-2004)
+3. [Lokayot (2004)](#3-lokayot-2004)
+4. [Agontuk 3 (আগন্তুক ৩) (2005)](#4-agontuk-3-আগনতক-৩-2005)
+5. [Hatiar (হাতিয়ার) (2012)](#5-hatiar-হতয়র-2012)
+
 
 ---
 
@@ -67,39 +68,37 @@ Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut s
 
 ---
 
-<a id="2-din-bodol-2004"></a>
-## 2. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
+---
 
+<a id="2-din-bodol-দন-বদল-2004"></a><a id="2-din-bodol-2004"></a>
+## 2. [Din Bodol (দিন বদল) (2004)](https://github.com/GhostDog45/Mixed-Albums#6-din-bodol-2004)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**The Icons - Nishpap Oporadh**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/09.%20Nishpap%20Oporadh.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Din%20Bodol%20%282004%29/09.%20Nishpap%20Oporadh.flac?download=true)
 
 ---
 
-<a id="3-agontuk-3-2005"></a>
-## 3. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
+<a id="3-lokayot-2004"></a><a id="5-lokayot-2004"></a>
+## 3. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
+### 🎵 Tracklist (One-Tap Download)
 
+- [**Icons - Ohongkar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/06.%20Ohongkar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/06.%20Ohongkar.flac?download=true)
+
+---
+
+<a id="4-agontuk-3-আগনতক-৩-2005"></a><a id="3-agontuk-3-2005"></a>
+## 4. [Agontuk 3 (আগন্তুক ৩) (2005)](https://github.com/GhostDog45/Mixed-Albums#7-agontuk-3-2005)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Icons - Avinoy**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/06%20Avinoy.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Agontuk%203%20%282005%29/06%20Avinoy.flac?download=true)
 
 ---
 
-<a id="4-hatiar-2012"></a>
-## 4. [Hatiar (হাতিয়ার) (2012)](https://github.com/GhostDog45/Mixed-Albums#17-hatiar-2012)
-
+<a id="5-hatiar-হতয়র-2012"></a><a id="4-hatiar-2012"></a>
+## 5. [Hatiar (হাতিয়ার) (2012)](https://github.com/GhostDog45/Mixed-Albums#17-hatiar-2012)
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Icons - Obosheshe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/02%20Obosheshe.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/02%20Obosheshe.wav?download=true)
-
----
-
-<a id="5-lokayot-2004"></a>
-## 5. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
-
-### 🎵 Tracklist (One-Tap Download)
-
-- [**Icons - Ohongkar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/06.%20Ohongkar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/06.%20Ohongkar.flac?download=true)
 
 ---
 
