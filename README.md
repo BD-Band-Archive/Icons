@@ -20,6 +20,7 @@
 2. [Din Bodol (দিন বদল) (2004)](#2-din-bodol-2004)
 3. [Agontuk 3 (আগন্তুক ৩) (2005)](#3-agontuk-3-2005)
 4. [Hatiar (হাতিয়ার) (2012)](#4-hatiar-2012)
+5. [Lokayot (2004)](#5-lokayot-2004)
 
 ---
 
@@ -94,6 +95,15 @@ Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut s
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Icons - Obosheshe**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/02%20Obosheshe.wav?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-WAV-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Hatiar%20%282012%29/02%20Obosheshe.wav?download=true)
+
+---
+
+<a id="5-lokayot-2004"></a>
+## 5. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**Icons - Ohongkar**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/06.%20Ohongkar.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Lokayot%20%282004%29/06.%20Ohongkar.flac?download=true)
 
 ---
 
