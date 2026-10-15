@@ -96,7 +96,7 @@ Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut s
 ---
 
 <a id="5-lokayot-2004"></a>
-## 5. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+## 5. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
