@@ -60,9 +60,13 @@ Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut s
 
 | | |
 | :---: | :---: |
-| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBack%5D.jpg" width="300" alt="2. Back Cover" /><br><sub><b>2. Back Cover</b></sub> |
-| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BPromotional%20Poster%5D.jpg" width="300" alt="4. Promotional Poster" /><br><sub><b>4. Promotional Poster</b></sub> |
-| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBooklet-1%5D.jpg" width="300" alt="5. Booklet" /><br><sub><b>5. Booklet</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBand%20Logo%5D.jpg" width="300" alt="6. Band Logo" /><br><sub><b>6. Band Logo</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBooklet-1%5D.jpg" width="300" alt="2. Booklet (Part 1)" /><br><sub><b>2. Booklet (Part 1)</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBooklet-2%5D.jpg" width="300" alt="3. Booklet (Part 2)" /><br><sub><b>3. Booklet (Part 2)</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBooklet-3%5D.jpg" width="300" alt="4. Booklet (Part 3)" /><br><sub><b>4. Booklet (Part 3)</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBooklet-4%5D.jpg" width="300" alt="5. Booklet (Part 4)" /><br><sub><b>5. Booklet (Part 4)</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBooklet-5%5D.jpg" width="300" alt="6. Booklet (Part 5)" /><br><sub><b>6. Booklet (Part 5)</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BPromotional%20Poster%5D.jpg" width="300" alt="7. Promotional Poster & Lyrics" /><br><sub><b>7. Promotional Poster & Lyrics</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BInset-Front%5D.jpg" width="300" alt="8. Inset (Front)" /><br><sub><b>8. Inset (Front)</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBand%20Logo%5D.jpg" width="300" alt="9. Band Photography" /><br><sub><b>9. Band Photography</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BCD%5D.jpg" width="300" alt="10. Compact Disc (CD)" /><br><sub><b>10. Compact Disc (CD)</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BInset-Back%5D.jpg" width="300" alt="11. Back Inset" /><br><sub><b>11. Back Inset</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBack%5D.jpg" width="300" alt="12. Back Cover" /><br><sub><b>12. Back Cover</b></sub> |
+| <img src="Ishshoronio%20%282005%29/Album%20Cover/folder.jpg" width="300" alt="13. folder" /><br><sub><b>13. folder</b></sub> |  |
 
 ---
 
