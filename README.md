@@ -34,10 +34,7 @@
 
 <p align="center">
   <img src="Ishshoronio%20%282005%29/Album%20Cover/folder.jpg" width="300" alt="Ishshoronio Album Cover" />
-</p> (ঈশ্বরণীয়)
-- **Release Year:** 2005 (July 15, 2005)
-- **Record Label:** G-Series
-- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+</p>
 
 ### 📖 About the Album
 Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut studio album by Icons. Blending atmospheric alternative metal with deeply poetic Bengali lyrics penned by Faisal Akram Ether, the 12-track album delivered underground classics including *"Brishtihoto"*, *"Ishshoronio"*, *"[O]shompurno"*, and *"Obinoy"*.
