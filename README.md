@@ -66,6 +66,12 @@ Released on July 15, 2005 under G-Series, *Ishshoronio* is the acclaimed debut s
 | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBand%20Logo%5D.jpg" width="300" alt="9. Band Photography" /><br><sub><b>9. Band Photography</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BCD%5D.jpg" width="300" alt="10. Compact Disc (CD)" /><br><sub><b>10. Compact Disc (CD)</b></sub> |
 | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BInset-Back%5D.jpg" width="300" alt="11. Back Inset" /><br><sub><b>11. Back Inset</b></sub> | <img src="Ishshoronio%20%282005%29/Album%20Cover/Ishshoronio%20%5BBack%5D.jpg" width="300" alt="12. Back Cover" /><br><sub><b>12. Back Cover</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Flac Preservation Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 ---
