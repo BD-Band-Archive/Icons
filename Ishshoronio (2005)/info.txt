@@ -1,0 +1,31 @@
+Album Name: Ishshoronio
+Album Type: Band
+Release Year: 2005
+Genre: Electronic / Hip-Hop / Rock / Drum And Bass / Trance / Downtempo / Atmospheric Drum And Bass / Breakbeat
+Total Songs: 12
+Track List:
+01. Brishtihoto (বৃষ্টিহত)
+02. Shottoy (সত্যয়)
+03. Oporanho (অপরাহ্ন)
+04. Neo (নিও)
+05. Ishshoronio (ঈশ্বরণীয়)
+06. [O]shompurno ([অ]সম্পূর্ণ)
+07. Utshorgo (উৎসর্গ)
+08. Oshomo (অসমো)
+09. Sporsho (স্পর্শ)
+10. Mrito (মৃত)
+11. Snato (স্নাতো)
+12. Obinoy (অবিনয়)
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 009 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : libFLAC 1.4.3 (2023-06-23)
